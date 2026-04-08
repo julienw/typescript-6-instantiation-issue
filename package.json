@@ -1,0 +1,13 @@
+{
+  "name": "ts-2589-repro",
+  "private": true,
+  "devDependencies": {
+    "typescript": "~6.0.2"
+  },
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "@vaadin/router": "^2.0.1"
+  }
+}
